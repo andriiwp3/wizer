@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wizer/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/wizer/static/js/main.0ccea1da.chunk.js",
+    "main.js.map": "/wizer/static/js/main.0ccea1da.chunk.js.map",
+    "runtime-main.js": "/wizer/static/js/runtime-main.51b3d2f8.js",
+    "runtime-main.js.map": "/wizer/static/js/runtime-main.51b3d2f8.js.map",
+    "static/js/2.1686d654.chunk.js": "/wizer/static/js/2.1686d654.chunk.js",
+    "static/js/2.1686d654.chunk.js.map": "/wizer/static/js/2.1686d654.chunk.js.map",
+    "static/js/3.f1bb09cf.chunk.js": "/wizer/static/js/3.f1bb09cf.chunk.js",
+    "static/js/3.f1bb09cf.chunk.js.map": "/wizer/static/js/3.f1bb09cf.chunk.js.map",
+    "index.html": "/wizer/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/wizer/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.1686d654.chunk.js.LICENSE.txt": "/wizer/static/js/2.1686d654.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/wizer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51b3d2f8.js",
+    "static/js/2.1686d654.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.0ccea1da.chunk.js"
+  ]
+}
